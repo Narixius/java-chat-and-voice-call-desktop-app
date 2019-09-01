@@ -1,11 +1,9 @@
 # Telephant #
-An end2end socket based java application to create calls and sending message.
+An end2end socket based java application to create calls and sending message.<br>
 This project developed on [BIHE University](http://bihe.org)
-<p align="center">
-  <img src="https://imgur.com/huU5xa9.jpg" width="550" title="hover text">
-</p>
+<img src="https://imgur.com/huU5xa9.jpg" width="550" title="hover text">
 
-###Fetures###
+### Fetures
     1. Sending Encrypted Messages
     2. Sending Encrypted Files
     3. Initializing Encrypted Calls
