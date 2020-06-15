@@ -10,7 +10,7 @@ This project developed on [BIHE University](http://bihe.org)
     3. Initializing Encrypted Calls
     4. Block and Unblock Users
 
-`This project is not a complete peroject. It's calls are good in local networks but over van network it won't work and takes large barndwidth.
+`This project is not a complete. It's calls work in local networks but over van network it won't work and takes large barndwidth (because it transfers data over tcp, it must be udp)
 Contributes are welcome and I accept commits if you are willing to.`
 
 
